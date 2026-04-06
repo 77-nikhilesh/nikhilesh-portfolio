@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4f8ef7"/>
+      <stop offset="100%" stop-color="#7c5cfc"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="420" fill="url(#g1)"/>
+  <!-- nav bar -->
+  <rect x="0" y="0" width="800" height="52" fill="#161b22" rx="0"/>
+  <circle cx="32" cy="26" r="10" fill="#4f8ef7"/>
+  <rect x="52" y="20" width="60" height="12" rx="6" fill="#21262d"/>
+  <rect x="620" y="16" width="80" height="20" rx="10" fill="url(#g2)"/>
+  <!-- hero section -->
+  <rect x="40" y="80" width="320" height="24" rx="6" fill="#30363d"/>
+  <rect x="40" y="116" width="240" height="16" rx="4" fill="#21262d"/>
+  <rect x="40" y="144" width="280" height="16" rx="4" fill="#21262d"/>
+  <rect x="40" y="172" width="200" height="16" rx="4" fill="#21262d"/>
+  <rect x="40" y="210" width="120" height="36" rx="8" fill="url(#g2)"/>
+  <rect x="178" y="210" width="120" height="36" rx="8" fill="none" stroke="#30363d" stroke-width="2"/>
+  <!-- food cards -->
+  <rect x="420" y="72" width="150" height="120" rx="10" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <rect x="420" y="72" width="150" height="70" rx="10" fill="#4f8ef720"/>
+  <rect x="430" y="152" width="90" height="10" rx="4" fill="#30363d"/>
+  <rect x="430" y="168" width="60" height="8" rx="4" fill="#4f8ef7"/>
+  <rect x="580" y="72" width="150" height="120" rx="10" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <rect x="580" y="72" width="150" height="70" rx="10" fill="#7c5cfc20"/>
+  <rect x="590" y="152" width="90" height="10" rx="4" fill="#30363d"/>
+  <rect x="590" y="168" width="60" height="8" rx="4" fill="#7c5cfc"/>
+  <rect x="420" y="210" width="150" height="120" rx="10" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <rect x="420" y="210" width="150" height="70" rx="10" fill="#22c55e20"/>
+  <rect x="430" y="290" width="90" height="10" rx="4" fill="#30363d"/>
+  <rect x="430" y="306" width="60" height="8" rx="4" fill="#22c55e"/>
+  <rect x="580" y="210" width="150" height="120" rx="10" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <rect x="580" y="210" width="150" height="70" rx="10" fill="#f59e0b20"/>
+  <rect x="590" y="290" width="90" height="10" rx="4" fill="#30363d"/>
+  <rect x="590" y="306" width="60" height="8" rx="4" fill="#f59e0b"/>
+  <!-- label -->
+  <rect x="0" y="370" width="800" height="50" fill="#0d1117"/>
+  <text x="40" y="401" font-family="monospace" font-size="13" fill="#4f8ef7">🍽  Restaurant Food Booking App</text>
+  <text x="600" y="401" font-family="monospace" font-size="11" fill="#30363d">MERN Stack</text>
+</svg>
