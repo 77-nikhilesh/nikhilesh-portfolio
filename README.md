@@ -4,9 +4,7 @@ A modern, responsive personal portfolio website designed and developed to showca
 
 ---
 
-## 🌐 Live Demo
-
-🔗 **Live Site:** _[link]_
+🔗 **Live Demo:** [nikhilesh-portfolio-orcin.vercel.app](https://nikhilesh-portfolio-orcin.vercel.app/)
 
 ---
 
